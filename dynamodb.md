@@ -10,3 +10,6 @@
 ## Result
 
 Sensor data was successfully stored and retrieved from DynamoDB.
+
+
+<img width="1357" height="555" alt="dynamo_db-data" src="https://github.com/user-attachments/assets/6235fd3c-5470-4d01-bd31-7f60e0edf553" />
