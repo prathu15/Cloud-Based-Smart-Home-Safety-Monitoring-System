@@ -12,5 +12,7 @@
 
 IoT Core successfully received sensor data and forwarded it to Lambda for processing.
 
+![screenshot/Aws_iot_core.png]
+
 
 
