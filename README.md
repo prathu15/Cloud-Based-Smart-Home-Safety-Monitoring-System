@@ -35,8 +35,7 @@ IoT Core → IoT Rule → Lambda → DynamoDB + SNS → User
 * AWS Lambda
 * Amazon DynamoDB
 * Amazon SNS
-* AWS IAM
-* Amazon CloudWatch
+
 
 ---
 
