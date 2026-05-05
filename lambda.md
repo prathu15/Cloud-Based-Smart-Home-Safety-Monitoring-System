@@ -79,6 +79,9 @@ def lambda_handler(event, context):
 ```
 
 ---
+<img width="1359" height="537" alt="Connection_lambda" src="https://github.com/user-attachments/assets/9215d359-f26e-41b2-94f2-0d54cc8dcfe9" />
+
+---
 
 ## Result
 
