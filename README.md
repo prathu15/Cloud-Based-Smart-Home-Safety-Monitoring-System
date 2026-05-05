@@ -1,13 +1,13 @@
 
 # Cloud-Based Smart Home Safety Monitoring System using AWS
 
-# Problem Statement
+## Problem Statement
 
 I designed a home automation system which collects data from multiple sensors installed in different houses and process it on cloud. The system monitor conditions like temperature, smoke, fire and motion, and notify users if any dangerous situation is detected.
 
+---
 
-
-# Objective
+## Objective
 
 * I built a scalable cloud based system for multiple houses
 * I processed sensor data in real time
@@ -15,9 +15,9 @@ I designed a home automation system which collects data from multiple sensors in
 * I detected abnormal conditions using rule based logic
 * I sent alerts to user in critical cases
 
+---
 
-
-# Architecture Overview
+## Architecture Overview
 
 IoT Core → IoT Rule → Lambda → DynamoDB + SNS → User
 
@@ -29,7 +29,7 @@ IoT Core → IoT Rule → Lambda → DynamoDB + SNS → User
 
 ---
 
-# AWS Services Used
+## AWS Services Used
 
 * AWS IoT Core
 * AWS Lambda
@@ -40,7 +40,7 @@ IoT Core → IoT Rule → Lambda → DynamoDB + SNS → User
 
 ---
 
-# Implementation Steps
+## Implementation Steps
 
 1. I configured MQTT topics for multi house and multi sensor data
 2. I created Lambda function to process incoming data
@@ -50,7 +50,7 @@ IoT Core → IoT Rule → Lambda → DynamoDB + SNS → User
 6. I tested system with different scenarios
 
 
-# Features
+## Features
 
 * I supported multiple houses
 * I supported different sensors (temperature, smoke, fire)
@@ -60,14 +60,14 @@ IoT Core → IoT Rule → Lambda → DynamoDB + SNS → User
 
 ---
 
-# Security & Privacy
+## Security & Privacy
 
 * I used IAM role based access control
 * I ensured no public access to database
 * I used secure communication through IoT Core
 * I ensured data encryption at rest
 
-
-# Conclusion
+---
+## Conclusion
 
 I built a scalable and secure IoT based home safety system using AWS. It process real time data, store it securely and send alerts when required.
