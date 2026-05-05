@@ -70,3 +70,18 @@ IoT Core → IoT Rule → Lambda → DynamoDB + SNS → User
 ## Conclusion
 
 I built a scalable and secure IoT based home safety system using AWS. It process real time data, store it securely and send alerts when required.
+
+---
+
+<img width="1071" height="467" alt="Screenshot 2026-05-05 135139" src="https://github.com/user-attachments/assets/b566200d-9c85-4df3-a3d2-f6a67d5cf2a6" />
+---
+<img width="948" height="495" alt="Screenshot 2026-05-05 135803" src="https://github.com/user-attachments/assets/1ae4f041-bebc-42dd-9af7-c5a8e6cd7027" />
+---
+<img width="1211" height="614" alt="sns" src="https://github.com/user-attachments/assets/28f94340-feed-4d64-a0eb-93b1a0d3b478" />
+---
+
+<img width="1039" height="435" alt="sns_notification" src="https://github.com/user-attachments/assets/37ca473b-ac32-452d-9b27-9202117bcb5a" />
+
+
+
+
