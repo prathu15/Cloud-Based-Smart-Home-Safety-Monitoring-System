@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-I designed a home automation system which collects data from multiple sensors installed in different houses and process it on cloud. The system monitor conditions like temperature, smoke, fire and motion, and notify users if any dangerous situation is detected.
+I designed a home automation system which collects data from multiple sensors installed in different houses and process it on cloud. The system monitor conditions like temperature, smoke and fire and notify users if any dangerous situation is detected.
 
 ---
 
